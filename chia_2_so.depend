@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462353831 source:e:\work space\chia_2_so\main.c
+	<stdio.h>
+	<stdlib.h>
+
